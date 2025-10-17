@@ -23,7 +23,7 @@
 ### 🧩 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,postgresql,linux,docker,vscode,html,css,javascript,react,Node.js" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,postgresql,linux,docker,vscode,html,css,javascript,react" />
 </p>
 
 ---
