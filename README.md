@@ -41,6 +41,7 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=XinyiHe67&show_icons=true&theme=transparent&title_color=8AB6D6&icon_color=8AB6D6&text_color=5A6E7D" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XinyiHe67&layout=compact&theme=transparent&title_color=8AB6D6&text_color=5A6E7D" />
+  ![GitHub followers](https://img.shields.io/github/followers/xihe0498?label=Followers&logo=github&style=flat&color=1F6FEB)
 </p>
 
 ---
