@@ -48,11 +48,6 @@
 
 ---
 
-### ☕ Connect With Me
-
-[![Email](https://img.shields.io/badge/-Email-8AB6D6?logo=gmail&logoColor=white&style=flat-square)](mailto:1662470131@qq.com)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=8AB6D6&height=60&section=footer&text=Thanks+for+visiting!+💙&fontColor=ffffff&fontSize=20" />
