@@ -8,7 +8,6 @@
   </picture>
 
 </div>
----
 
 ### 🌸 About Me
 
