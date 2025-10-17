@@ -18,18 +18,15 @@
 ### 🧩 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,postgresql,linux,docker,vscode,qgis" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,postgresql,linux,docker,vscode,qgis,html,css,javascript,react" />
 </p>
 
 ---
 
 ### 📘 Featured Projects
 
-🌿 [**Dynamic Farmland Boundary Detection Engine**](https://github.com/xihe0498/boundary-detection)  
+🌿 [**Dynamic Farmland Boundary Detection Engine**](https://github.com/XinyiHe67/Dynamic-field-boundary-detection)  
 > Automating field segmentation with satellite imagery and deep learning models.
-
-⚡ [**NGER Power Station Analysis**](https://github.com/xihe0498/nger-energy-analysis)  
-> Cleaning and visualizing national greenhouse and energy reporting datasets.
 
 ---
 
