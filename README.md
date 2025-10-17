@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- 浅色模式（白底）：深蓝文字 -->
+  <!-- 浅色模式（白底）：柔和亮蓝文字 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=58A6FF&height=84&text=Hi,%20I'm%20Xinyi%20He%20%7C%20Data%20Science%20·%20AI&fontSize=34&fontAlignY=50" />
     <img alt="Hi, I'm Xinyi He | Data Science · AI"
-         src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=1F6FEB&height=84&text=Hi,%20I'm%20Xinyi%20He%20%7C%20Data%20Science%20·%20AI&fontSize=34&fontAlignY=50" />
+         src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=3D8BEB&height=84&text=Hi,%20I'm%20Xinyi%20He%20%7C%20Data%20Science%20·%20AI&fontSize=34&fontAlignY=50" />
   </picture>
 
 </div>
