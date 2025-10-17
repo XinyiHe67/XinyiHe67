@@ -1,8 +1,5 @@
-<h2 align="center" style="color:#2E74B5; font-size:28px; font-weight:600;">
-  Hi, I'm Xinyi He 🌿 | Data Science · AI · Creativity
-</h2>
-<p align="center" style="color:#6A9FB5; font-size:16px;">
-  “Simplicity is the soul of efficiency.” — Austin Freeman
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=600&color=2E74B5&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Xinyi+He;Data+Science+|+AI+|+Creativity" />
 </p>
 ---
 
