@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=600&color=2E74B5&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Xinyi+He;Data+Science+|+AI+|+Creativity" />
-</p>
+<div align="center">
+
+  <!-- 浅色模式（白底）：深蓝文字 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=58A6FF&height=84&text=Hi,%20I'm%20Xinyi%20He%20%7C%20Data%20Science%20·%20AI&fontSize=34&fontAlignY=50" />
+    <img alt="Hi, I'm Xinyi He | Data Science · AI"
+         src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&fontColor=1F6FEB&height=84&text=Hi,%20I'm%20Xinyi%20He%20%7C%20Data%20Science%20·%20AI&fontSize=34&fontAlignY=50" />
+  </picture>
+
+</div>
 ---
 
 ### 🌸 About Me
