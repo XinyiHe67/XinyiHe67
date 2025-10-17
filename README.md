@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&center=true&lines=Hi,+I'm+Xinyi+He+🌿;Data+Science+|+AI+|+Creativity" />
-</p>
+<h2 align="center" style="color:#2E74B5; font-size:28px; font-weight:600;">
+  Hi, I'm Xinyi He 🌿 | Data Science · AI · Creativity
+</h2>
 
 ---
 
